@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+*{
+	padding: 0;
+	margin:0;
+}
+
+body{
+		font-family: Raleway, Helvetica, sans-serif;
+		font-size: 1.5em;
+		font-weight: Medium Italic;
+		color: #222222;
+		line-height: 1.3em;
+		text-align: center;
+ 		background-image: url("pexelsphoto437740.jpg");
+  		background-size: cover;
+}
+
+
+header{
+	background-color: #E8E1D1;
+	padding: 1.5em;
+	text-align: right;
+}
+
+h1{
+	color: #8C57FF;
+	font-size: 10em; /*1em=16px*/
+}
+
+a{
+	color: inherit;
+	text-decoration: none;
+}
+
+nav a{
+	color: #22222;
+	font-style: Raleway, Arial;
+	font-weight: bold;
+	margin-left: 1em;
+}
+
+img{
+	width: 100%;
+}
+
+main{
+	padding: 30px;	
+}
+ul, ol{
+	padding-left:  30px;
+}
+
+footer{
+	background-color: #cccccc;
+	text-align: center;
+	padding: 30px;
+}
+
+h3{
+	margin-top: 20px;
+	font-style: Raleway, Arial;
+	font-weight: bold;
+}
+h4{
+	margin-bottom: 20px;
+	font-style: Raleway, Arial;
+	font-weight: Regular;
+}
+
+aside{
+	float: right;
+}
+section {
+	background-image: "pexelsphoto437740.jpg";
+	background-image: 100%;
+}
+.ts{
+	width:; 50%;
+	fontstyle: Raleway;
+}
