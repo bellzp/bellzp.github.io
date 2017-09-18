@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin:0;
+}
+
+header{
+	background-color: #FFED74;
+	padding: 20px;
+	border: 1 px black slolid;
+}
+
+
+a{
+	color: inherit;
+	text-decoration: none;
+}
+
+nav {
+	background-color: #E8C66A;
+	padding: 20px;
+	border: 1px black solid;
+
+}
+
+footer{
+	background-color: #FF957E;
+	padding: 20px;
+	border: 1px black solid;
+}
+
+aside{
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+section {
+	background-color: #FFE2B8;
+}
+div{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
